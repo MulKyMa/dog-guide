@@ -1,5 +1,6 @@
 import React from "react";
 import Dog from "./Dog";
+import { useState, useEffect } from "react";
 
 
 
